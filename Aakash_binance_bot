@@ -1,0 +1,13 @@
+Aakash_binance_bot/
+├── src/
+│   ├── utils.py
+│   ├── market_orders.py
+│   ├── limit_orders.py
+│   └── advanced/
+│       ├── stop_limit.py
+│       ├── oco.py
+│       └── twap.py
+├── trading_bot.log
+├── requirements.txt
+├── README.md
+└── report.pdf
